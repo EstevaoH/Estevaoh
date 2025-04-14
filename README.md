@@ -1,13 +1,7 @@
 ## Estevão Ferreira
 
 
-Como desenvolvedor front-end, meu objetivo é criar interfaces de usuário atraentes e funcionais que ofereçam uma experiência de usuário excepcional. Eu sou apaixonado por desenvolver soluções criativas e personalizadas que atendam às necessidades específicas de cada projeto e de cada cliente.
-
-Ao longo deste portfólio, você encontrará uma seleção de projetos que demonstrem minhas habilidades em tecnologias como HTML, CSS, JavaScript, React, Angular, entre outras. Além disso, você também encontrará informações sobre minha experiência profissional, educação e habilidades interpessoais.
-
-Acredito que a colaboração e a comunicação são fundamentais para o sucesso de qualquer projeto de desenvolvimento de software e stou sempre aberto a novas oportunidades de trabalho.
-<!-- 
-Desenvolvedor Frontend atuando em projetos desde 2019; Trabalho com Javascript e também com Typescript, utilizando seus frameworks e bibliotecas como React, Angular, IONIC, NextJS. Experiência em construção de layouts usando Figma. -->
+Desenvolvedor Front-end com mais de 3 anos de experiência em Angular, React, Next.js e micro front-ends. Especializado em componente reutilizável, padrões de projetos  SOLID e Design Systems. Experiência em projetos mobile (React Native) e integração de APIs RESTful. Graduado em Sistemas para Internet pelo IFRN.
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Estevao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
